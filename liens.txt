@@ -1,0 +1,73 @@
+
+-------------photo-------------
+
+
+https://www.google.com/search?biw=1396&bih=657&tbm=isch&sa=1&ei=tkITXY_KJqXD8gLhtYPgAw&q=monitoring&oq=monit&gs_l=img.3.0.0l2j0i67j0j0i67j0l5.21913.23003..24913...0.0..0.323.671.3j1j0j1......0....1..gws-wiz-img.......35i39.rM3YttndyG0#imgrc=bbdH5Qyl3M_7OM:
+
+
+----------remerciements-------------------------------------
+https://www.pantheonsorbonne.fr/fileadmin/IREST/Memoires_Masters_2/Memoire_Med_Trabelsi__TEP.pdf
+
+
+
+---------------------------------------installation zabbix-------------------------------------------------------
+https://www.zabbix.com/documentation/4.0/manual/appendix/config/zabbix_server
+https://zabbixonly.com/how-to-configure-high-availability-ha-zabbix-server-on-ubuntu-18-04/
+https://www.linuxjournal.com/article/7595
+https://www.zabbix.com/download?zabbix=4.2&os_distribution=ubuntu&os_version=16.04_xenial&db=mysql
+https://www.zabbix.com/integrations/ubuntu
+
+https://hub.docker.com/r/zabbix/zabbix-server-mysql
+
+
+-------------------battement-------------------------------------------------------
+
+https://www.thegeekdiary.com/how-to-create-and-configure-resource-groups-in-a-pacemaker-cluster/
+https://github.com/VadimIpatov/zbx_pacemaker
+
+---------------------------------------mariadb------------------------------------------------
+
+https://www.rosehosting.com/blog/how-to-install-mariadb-on-ubuntu-16-04/
+http://yallalabs.com/linux/how-to-configure-a-high-availability-zabbi-server-using-pacemaker-on-centos-7-rhel-7/
+
+"penser à commenter la ligne bin "
+
+https://www.dbschema.com/documentation/MariaDb/index.html
+https://www.linuxbabe.com/linux-server/install-apache-mariadb-and-php7-lamp-stack-on-ubuntu-16-04-lts
+https://linoxide.com/monitoring-2/configure-zabbix-proxy-external-monitoring-centos-7/
+
+--------------------------CONFIGURATION ZABBIX PROXY----------------------------
+
+http://yallalabs.com/linux/how-to-install-and-configure-zabbix-proxy-3-4-on-ubuntu-16-04-lts/?fbclid=IwAR1z13l0xO2ud5aKbqCQNNMSPNNSlqw7yC-bU0gcSb5e7NOGZk0xj9ntWCc
+
+https://www.tecmint.com/configure-zabbix-to-send-email-alerts-to-gmail/?fbclid=IwAR26_To7kiPV_OJyZVTc9ClpmONww_sI41OmSCRSNhLk5KEjtBbDmWPwezQ
+
+
+-----------------------CONFIGURATION EMAIL-------------------------------
+
+https://www.tecmint.com/configure-zabbix-to-send-email-alerts-to-gmail/?fbclid=IwAR26_To7kiPV_OJyZVTc9ClpmONww_sI41OmSCRSNhLk5KEjtBbDmWPwezQ
+https://techexpert.tips/zabbix/zabbix-email-notification-setup/   "le bon"
+https://www.zabbix.com/documentation/4.0/manual/config/notifications/media/email
+
+
+
+----------------------------openvpen-----------------------------------------------------
+
+https://www.ovpn.com/en/guides/pfsense
+https://chrislazari.com/pfsense-setting-up-openvpn-on-pfsense-2-4/
+
+------------installation zabbix agent sur windows---------------------------------
+
+https://tecadmin.net/install-zabbix-agent-windows-system/
+https://tecadmin.net/add-host-zabbix-server-monitor/
+http://yallalabs.com/windows/how-to-install-zabbix-agent-3-4-and-add-windows-host-to-zabbix-monitoring/
+https://techexpert.tips/zabbix/zabbix-monitor-windows-using-agent/?fbclid=IwAR2CXR82qQ3kyHAz_Q1V9nMuKO-gBFnfEMgCgShEvtyX7-WqU8IzUAQQ3So   "veuillez à bien installer agent win.conf" et surtout ouvrir cmd en admin
+
+-----------------------------zabbixx agent pfsense------------------------------------------
+https://www.ceos3c.com/open-source/monitor-pfsense-2-4-zabbix/?fbclid=IwAR2vtb7FzoZAbewULZvF1AElbaHfyI_uR5TH7Dawn0vatWv3ycKglDt80LM
+
+"VEULLEZ à rajouter tcp/udp dans les services lan"
+
+-----------------------------------zabbix agent cisco  -------------------------------------------------
+
+
